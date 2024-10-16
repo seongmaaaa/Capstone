@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: 5ed4353f028b56444b40b84fbba0d475
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArrowHeadAttack_0
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 5482
+        width: 561
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee420a7f2c5998742a2cd31232173736
+      internalID: 1817018637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_1
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 5479
+        width: 606
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511af9aed83db9e4ebdf269440d6e416
+      internalID: -1674031954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_2
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 5479
+        width: 606
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970d45b0fe718bc409cc28bb9455098c
+      internalID: 1788247139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_3
+      rect:
+        serializedVersion: 2
+        x: 4332
+        y: 5479
+        width: 627
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabaeb289582a52419ec4c5a1faefead
+      internalID: 1124033575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 4718
+        width: 627
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5c38ce57fa4b94e9e765797d668b6a
+      internalID: -1637918047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 4718
+        width: 636
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df23e22be4f4444da0304855e214414
+      internalID: 1616308690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_6
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 4718
+        width: 645
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998c8ddeaeda62944af1fa1dc52d35e8
+      internalID: -736846137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_7
+      rect:
+        serializedVersion: 2
+        x: 4299
+        y: 4718
+        width: 660
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6456c0c4d4617d344ad50c1f9c35535e
+      internalID: 297758126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3954
+        width: 671
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890cded35a5a18146a57e3ebc9948c15
+      internalID: 408942543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_9
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3954
+        width: 671
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d150ff396a23c1745b5b522e5ac5adda
+      internalID: 1246480139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_10
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 3951
+        width: 683
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b66df895d807fd48a713097c0eed18e
+      internalID: 1804745629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_11
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 3954
+        width: 689
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1df32cc78c0221468cde88aea5e4c76
+      internalID: 816140468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_12
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 3190
+        width: 689
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d679089d0a9545542a2f0b15c9616900
+      internalID: -292011433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_13
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 3187
+        width: 704
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7414bdd7d00d01d47807a4b600889d55
+      internalID: 529945157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_14
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 3190
+        width: 713
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420be3404f53e5b4ab481d52b8a4a407
+      internalID: 1809641945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_15
+      rect:
+        serializedVersion: 2
+        x: 4219
+        y: 3190
+        width: 740
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b7d4e86703dc74dac8045873e57087
+      internalID: -1325715584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_16
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 2426
+        width: 752
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fec76142e36111469a63ef7c917af0c
+      internalID: -343269970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_17
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 2426
+        width: 758
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdcb656b813d0b42ae4e4c4825c27dd
+      internalID: -1655955222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_18
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 2423
+        width: 776
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc8ce4a5cef8dc45a266e380cf9eea4
+      internalID: 1452637943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_19
+      rect:
+        serializedVersion: 2
+        x: 4171
+        y: 2423
+        width: 788
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77d61d272a27814289a28cdd64a33e2
+      internalID: 2053428206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_20
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1662
+        width: 806
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38e374292489794581d29d4e384f088
+      internalID: -1727462096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_21
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1662
+        width: 824
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a712c702b2ac0cd47a3b660455256b23
+      internalID: -1301914961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_22
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 1662
+        width: 836
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8dea38625263c45907449f37f3671b
+      internalID: 294345503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_23
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 1662
+        width: 847
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecc5d1978d7a4846a3be316cd13064a
+      internalID: 2065591090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_24
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 898
+        width: 865
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5b8e8345faad04ba8868a77f4f20da
+      internalID: 428872907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_25
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 898
+        width: 874
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de478768db09594448f7e9642d946ea2
+      internalID: 904401010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_26
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 898
+        width: 886
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb6365f997b7594cb1793d3917e3620
+      internalID: 533470810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_27
+      rect:
+        serializedVersion: 2
+        x: 4049
+        y: 898
+        width: 910
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42560c2ca6004e34daffa9db6adbc309
+      internalID: -1831189591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_28
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 134
+        width: 934
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549c5977cc89f5b45a8a5e1588c85a7d
+      internalID: 625050196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowHeadAttack_29
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 134
+        width: 952
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83851403e9d8e934dabce4eaddeec123
+      internalID: 1972109466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ArrowHeadAttack_0: 1817018637
+      ArrowHeadAttack_1: -1674031954
+      ArrowHeadAttack_10: 1804745629
+      ArrowHeadAttack_11: 816140468
+      ArrowHeadAttack_12: -292011433
+      ArrowHeadAttack_13: 529945157
+      ArrowHeadAttack_14: 1809641945
+      ArrowHeadAttack_15: -1325715584
+      ArrowHeadAttack_16: -343269970
+      ArrowHeadAttack_17: -1655955222
+      ArrowHeadAttack_18: 1452637943
+      ArrowHeadAttack_19: 2053428206
+      ArrowHeadAttack_2: 1788247139
+      ArrowHeadAttack_20: -1727462096
+      ArrowHeadAttack_21: -1301914961
+      ArrowHeadAttack_22: 294345503
+      ArrowHeadAttack_23: 2065591090
+      ArrowHeadAttack_24: 428872907
+      ArrowHeadAttack_25: 904401010
+      ArrowHeadAttack_26: 533470810
+      ArrowHeadAttack_27: -1831189591
+      ArrowHeadAttack_28: 625050196
+      ArrowHeadAttack_29: 1972109466
+      ArrowHeadAttack_3: 1124033575
+      ArrowHeadAttack_4: -1637918047
+      ArrowHeadAttack_5: 1616308690
+      ArrowHeadAttack_6: -736846137
+      ArrowHeadAttack_7: 297758126
+      ArrowHeadAttack_8: 408942543
+      ArrowHeadAttack_9: 1246480139
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

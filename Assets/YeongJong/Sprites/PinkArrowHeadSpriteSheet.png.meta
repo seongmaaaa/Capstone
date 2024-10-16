@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: 4efbe0a149467604ea5448029cf9410c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 5482
+        width: 561
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4480834646333438207d1feff0da56
+      internalID: 1032392843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 5479
+        width: 606
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131e16034ecee874889b3c40158d9131
+      internalID: -2006059464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 5479
+        width: 606
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c07ea119045cc46b49b15b382bc4e7
+      internalID: -366325984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 4332
+        y: 5479
+        width: 627
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa232e4ec9057245914c737a9099bf7
+      internalID: 1931309245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 4718
+        width: 627
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5088ab54c167e9b44b1a8ad9a6af5dee
+      internalID: 1530395715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 4718
+        width: 636
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be181f85965bd68418e4d364a2f6bcd0
+      internalID: 1814732585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 4718
+        width: 645
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb7694e66c790747852b365eee086f1
+      internalID: -2139362700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 4299
+        y: 4718
+        width: 660
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28df6014c2efdb4ca4cc74d9bbb9f40
+      internalID: 1985422755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3954
+        width: 671
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8878c5fc546348e4bac3502f5de13946
+      internalID: -297740369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3954
+        width: 671
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcaafb3315235b4fa437c1f37b4d673
+      internalID: 1917050146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 3951
+        width: 683
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc25fdb40741a5640a13e497539e2ae1
+      internalID: -1903669799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 3954
+        width: 689
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f01cb12a133934c8a4fee84d1a51e3
+      internalID: -1750779846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 3190
+        width: 689
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498233e39a9e3034290ad22fbb489421
+      internalID: -36727132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 3187
+        width: 704
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a4d685dc28ffb44b718d34e6c5639a
+      internalID: -878712061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 3190
+        width: 713
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f19ecf2c48b824da928f8ea3e56062
+      internalID: -17305985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 4219
+        y: 3190
+        width: 740
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aee163c1e1326d4ba7c234880440f59
+      internalID: 263568649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 2426
+        width: 752
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81029a2aae620894bb5d933feaf81638
+      internalID: 455790835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 2426
+        width: 758
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adda508678f491a4eb2ae0b31cce27a8
+      internalID: -168564574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 2423
+        width: 776
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4734c0a66b674488262ca05e441fe0
+      internalID: -1541906637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 4171
+        y: 2423
+        width: 788
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33141a0dcf80db64c9e87082d8da228a
+      internalID: 488502106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1662
+        width: 806
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7328fd27c7a0f5c41981aa8594d6d5df
+      internalID: -2049538725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1662
+        width: 824
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5fa83cf04429e429bd1494947260e1
+      internalID: -1013637238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 1662
+        width: 836
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c2ec504c0f1384189d2d73f03501e6
+      internalID: 1104477712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 1662
+        width: 847
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cf9bf71b7a5a24d8aa85e72bcf1e14
+      internalID: -1117824264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 898
+        width: 865
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312821213fffc354398a692c084f80d1
+      internalID: -1052861189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 898
+        width: 874
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f7371f0b6e7db468857082c4541dda
+      internalID: 341225018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 898
+        width: 886
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86f6cc0c1db49849891188e75363775
+      internalID: -1178351240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 4049
+        y: 898
+        width: 910
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42eee99af986e1345baaa7cb5c919923
+      internalID: -1926008969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 134
+        width: 934
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf0591a408d015418da537b6e9e5970
+      internalID: 1894287563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkArrowHeadSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 134
+        width: 952
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2b058d8b5d6454e964850a5962195c
+      internalID: -929907145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PinkArrowHeadSpriteSheet_0: 1032392843
+      PinkArrowHeadSpriteSheet_1: -2006059464
+      PinkArrowHeadSpriteSheet_10: -1903669799
+      PinkArrowHeadSpriteSheet_11: -1750779846
+      PinkArrowHeadSpriteSheet_12: -36727132
+      PinkArrowHeadSpriteSheet_13: -878712061
+      PinkArrowHeadSpriteSheet_14: -17305985
+      PinkArrowHeadSpriteSheet_15: 263568649
+      PinkArrowHeadSpriteSheet_16: 455790835
+      PinkArrowHeadSpriteSheet_17: -168564574
+      PinkArrowHeadSpriteSheet_18: -1541906637
+      PinkArrowHeadSpriteSheet_19: 488502106
+      PinkArrowHeadSpriteSheet_2: -366325984
+      PinkArrowHeadSpriteSheet_20: -2049538725
+      PinkArrowHeadSpriteSheet_21: -1013637238
+      PinkArrowHeadSpriteSheet_22: 1104477712
+      PinkArrowHeadSpriteSheet_23: -1117824264
+      PinkArrowHeadSpriteSheet_24: -1052861189
+      PinkArrowHeadSpriteSheet_25: 341225018
+      PinkArrowHeadSpriteSheet_26: -1178351240
+      PinkArrowHeadSpriteSheet_27: -1926008969
+      PinkArrowHeadSpriteSheet_28: 1894287563
+      PinkArrowHeadSpriteSheet_29: -929907145
+      PinkArrowHeadSpriteSheet_3: 1931309245
+      PinkArrowHeadSpriteSheet_4: 1530395715
+      PinkArrowHeadSpriteSheet_5: 1814732585
+      PinkArrowHeadSpriteSheet_6: -2139362700
+      PinkArrowHeadSpriteSheet_7: 1985422755
+      PinkArrowHeadSpriteSheet_8: -297740369
+      PinkArrowHeadSpriteSheet_9: 1917050146
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

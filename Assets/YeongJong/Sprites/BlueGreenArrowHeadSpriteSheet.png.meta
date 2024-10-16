@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: 7ef88cd8f5f5cef4e9bee877666816be
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 5482
+        width: 561
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5687307de954e27479a6c72043c670a7
+      internalID: -1192069152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 5479
+        width: 606
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14805b2cf49b2d42bd231bbd2b82b74
+      internalID: 1179618903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 5479
+        width: 606
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6984b1c103a434894203212576d901
+      internalID: 1160970595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 4332
+        y: 5479
+        width: 627
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a25b34dbcc28dd4fbd0a238126e9a4e
+      internalID: -1014706088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 4718
+        width: 627
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc78a4fbe51d3e9438a93bc297aef15e
+      internalID: 295310908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 4718
+        width: 636
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a533147589eb8e4aadaa2472dfe2f0b
+      internalID: 915959891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 4718
+        width: 645
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce43e6ec51e3a2341ae297507fbf8ec4
+      internalID: 1094356883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 4299
+        y: 4718
+        width: 660
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7313f247961591b45aeab0f705268194
+      internalID: 1467138883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3954
+        width: 671
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5cf5ff5ea57154ea1faad9f91ee959
+      internalID: -434726598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3954
+        width: 671
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f404aebbfb3c9d4daa0d1911eb89604
+      internalID: -1556346308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 3951
+        width: 683
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f1c5e95e2a37a4fb151da853907ecf
+      internalID: 37695746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 3954
+        width: 689
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260cdd43f1b920b45a24e9533509a751
+      internalID: -1026050585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 3190
+        width: 689
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b099ac0dec035741814a114b90410a7
+      internalID: 1608172750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 3187
+        width: 704
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586bb1aafa805ae4f9c2c97a11700342
+      internalID: 299060836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 3190
+        width: 713
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ffc11e992d3284cbce5034a9a920dc
+      internalID: -1378160448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 4219
+        y: 3190
+        width: 740
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b6d4f4a7e64f648b0e066b0a360a97
+      internalID: -1743012162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 2426
+        width: 752
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253d4cc5b6ba1844db4013f50b7e87e8
+      internalID: -1911008000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 2426
+        width: 758
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd908a0c00698e46a5f7719724a218b
+      internalID: -1778485495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 2423
+        width: 776
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77a3438dd8d4df4480b7dd2e4449449
+      internalID: -801436700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 4171
+        y: 2423
+        width: 788
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe1cf9464329d64fa175eaafb8a563e
+      internalID: -1774411661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1662
+        width: 806
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641820a28f9cd904c90a6b4c147e9200
+      internalID: -616955205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1662
+        width: 824
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e77631602cdfcb49a86fdefce4f12b4
+      internalID: -483876481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 1662
+        width: 836
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3f4e8c8a2167d469ef46d8d5c46f76
+      internalID: -601642567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 1662
+        width: 847
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de16f3e7b43ce754491478772b99fe31
+      internalID: -1509800124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 898
+        width: 865
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00137ca64aa578a47bdb6e8242009b76
+      internalID: 1068618787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 898
+        width: 874
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7667f9f1b25f804081ed6b4e7587dc7
+      internalID: 1743216832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 898
+        width: 886
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98da01184ac996d4493b89ba1c0a9a40
+      internalID: -75895116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 4049
+        y: 898
+        width: 910
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba1b13def0a8a0468138463ae532cd9
+      internalID: 1246668186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 134
+        width: 934
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fed7ee29f77e3469cc099c74e109c9
+      internalID: 1897050442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueGreenArrowHeadSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 134
+        width: 952
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5035ea0aecb17dc43ac47dafcc3e411d
+      internalID: 1755552940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BlueGreenArrowHeadSpriteSheet_0: -1192069152
+      BlueGreenArrowHeadSpriteSheet_1: 1179618903
+      BlueGreenArrowHeadSpriteSheet_10: 37695746
+      BlueGreenArrowHeadSpriteSheet_11: -1026050585
+      BlueGreenArrowHeadSpriteSheet_12: 1608172750
+      BlueGreenArrowHeadSpriteSheet_13: 299060836
+      BlueGreenArrowHeadSpriteSheet_14: -1378160448
+      BlueGreenArrowHeadSpriteSheet_15: -1743012162
+      BlueGreenArrowHeadSpriteSheet_16: -1911008000
+      BlueGreenArrowHeadSpriteSheet_17: -1778485495
+      BlueGreenArrowHeadSpriteSheet_18: -801436700
+      BlueGreenArrowHeadSpriteSheet_19: -1774411661
+      BlueGreenArrowHeadSpriteSheet_2: 1160970595
+      BlueGreenArrowHeadSpriteSheet_20: -616955205
+      BlueGreenArrowHeadSpriteSheet_21: -483876481
+      BlueGreenArrowHeadSpriteSheet_22: -601642567
+      BlueGreenArrowHeadSpriteSheet_23: -1509800124
+      BlueGreenArrowHeadSpriteSheet_24: 1068618787
+      BlueGreenArrowHeadSpriteSheet_25: 1743216832
+      BlueGreenArrowHeadSpriteSheet_26: -75895116
+      BlueGreenArrowHeadSpriteSheet_27: 1246668186
+      BlueGreenArrowHeadSpriteSheet_28: 1897050442
+      BlueGreenArrowHeadSpriteSheet_29: 1755552940
+      BlueGreenArrowHeadSpriteSheet_3: -1014706088
+      BlueGreenArrowHeadSpriteSheet_4: 295310908
+      BlueGreenArrowHeadSpriteSheet_5: 915959891
+      BlueGreenArrowHeadSpriteSheet_6: 1094356883
+      BlueGreenArrowHeadSpriteSheet_7: 1467138883
+      BlueGreenArrowHeadSpriteSheet_8: -434726598
+      BlueGreenArrowHeadSpriteSheet_9: -1556346308
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

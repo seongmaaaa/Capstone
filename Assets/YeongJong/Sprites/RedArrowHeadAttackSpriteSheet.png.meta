@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: 0c86d6bc25008e64689095176e5ad50c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 5482
+        width: 561
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938a545be072c5342ad9aa27ae7ded7c
+      internalID: -528881789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 5479
+        width: 606
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194cffb78d4075443bd64db96ce61ae9
+      internalID: -1913713652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 5479
+        width: 606
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b29373595349a84397715f969d3a369
+      internalID: 94917303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 4332
+        y: 5479
+        width: 627
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30506e41e41a7c145ac743d54ef57956
+      internalID: 1002069716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 4718
+        width: 627
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a848dec4ac302e3419d21c03e81d5440
+      internalID: -1108525717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 4718
+        width: 636
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8e85e861f9da1469f80a8b9d3caf88
+      internalID: -2053685366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 4718
+        width: 645
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adddc87c31b66324799b36202dad0e01
+      internalID: 1657895552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 4299
+        y: 4718
+        width: 660
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c074d01d8f8d51547ae40a3a2ca30687
+      internalID: -821308075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3954
+        width: 671
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d38e9d052eb93f42be60a0397e613b0
+      internalID: 315373339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3954
+        width: 671
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc79a69d92bda54891bb4430b6b41f0
+      internalID: -1292073502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 3951
+        width: 683
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3797d40e0a5f01e42b9bf12848fa4ad5
+      internalID: -114314911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 3954
+        width: 689
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a6672a4301a7947a4be76bf975ad64
+      internalID: -630578145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 3190
+        width: 689
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b3135579ea3e24885cc8609de326aa
+      internalID: -110290495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 3187
+        width: 704
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280343ca7985ae241a341812ff278a22
+      internalID: 44293655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 3190
+        width: 713
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049402462865f8e48a5a2995196a41d7
+      internalID: 1591422299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 4219
+        y: 3190
+        width: 740
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa25689b6002b2a45bdf0acf80c4a8e6
+      internalID: 1843693285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 2426
+        width: 752
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b2699d9e87714439a96a02c36ec1d8
+      internalID: -1557384899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 2426
+        width: 758
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb7081d2b0c7bc49866b9a9b4b0f282
+      internalID: -1332004599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 2423
+        width: 776
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0414eada44e2da142999c24559402511
+      internalID: -1798072581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 4171
+        y: 2423
+        width: 788
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3995f380a1e0264faaf4aeed69f3ff6
+      internalID: 99489057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1662
+        width: 806
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0201821c7e20f74b93726f8ed4a8280
+      internalID: 2125174914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1662
+        width: 824
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d7a581a2b743140a6f12f4d8741a7b
+      internalID: -276231743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 1662
+        width: 836
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5fe1ad874d04a4cb41cadc5fd245c2
+      internalID: -1348126253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 1662
+        width: 847
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b98507b57e6ebe40ab22cb27578b21b
+      internalID: -1138655361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 898
+        width: 865
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa7c334347f6fa41b0060a6b320f416
+      internalID: -1093813023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 898
+        width: 874
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6caf08b1874364e852c14d4b74c98e
+      internalID: -1519982344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 898
+        width: 886
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c391a972568024988e165105448df7
+      internalID: -1334538183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 4049
+        y: 898
+        width: 910
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43076ec620f7e9b419068712c374ab15
+      internalID: 748177487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 134
+        width: 934
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75022a704c78aa74c9a8160ef75122c9
+      internalID: -942562676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedArrowHeadAttackSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 134
+        width: 952
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaf945bf09e00f46bffec73441f2e40
+      internalID: -429435507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RedArrowHeadAttackSpriteSheet_0: -528881789
+      RedArrowHeadAttackSpriteSheet_1: -1913713652
+      RedArrowHeadAttackSpriteSheet_10: -114314911
+      RedArrowHeadAttackSpriteSheet_11: -630578145
+      RedArrowHeadAttackSpriteSheet_12: -110290495
+      RedArrowHeadAttackSpriteSheet_13: 44293655
+      RedArrowHeadAttackSpriteSheet_14: 1591422299
+      RedArrowHeadAttackSpriteSheet_15: 1843693285
+      RedArrowHeadAttackSpriteSheet_16: -1557384899
+      RedArrowHeadAttackSpriteSheet_17: -1332004599
+      RedArrowHeadAttackSpriteSheet_18: -1798072581
+      RedArrowHeadAttackSpriteSheet_19: 99489057
+      RedArrowHeadAttackSpriteSheet_2: 94917303
+      RedArrowHeadAttackSpriteSheet_20: 2125174914
+      RedArrowHeadAttackSpriteSheet_21: -276231743
+      RedArrowHeadAttackSpriteSheet_22: -1348126253
+      RedArrowHeadAttackSpriteSheet_23: -1138655361
+      RedArrowHeadAttackSpriteSheet_24: -1093813023
+      RedArrowHeadAttackSpriteSheet_25: -1519982344
+      RedArrowHeadAttackSpriteSheet_26: -1334538183
+      RedArrowHeadAttackSpriteSheet_27: 748177487
+      RedArrowHeadAttackSpriteSheet_28: -942562676
+      RedArrowHeadAttackSpriteSheet_29: -429435507
+      RedArrowHeadAttackSpriteSheet_3: 1002069716
+      RedArrowHeadAttackSpriteSheet_4: -1108525717
+      RedArrowHeadAttackSpriteSheet_5: -2053685366
+      RedArrowHeadAttackSpriteSheet_6: 1657895552
+      RedArrowHeadAttackSpriteSheet_7: -821308075
+      RedArrowHeadAttackSpriteSheet_8: 315373339
+      RedArrowHeadAttackSpriteSheet_9: -1292073502
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

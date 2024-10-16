@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: ed0844414ec432d4fa7aacf5107f4d99
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 5482
+        width: 561
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f2e97957d5fee448190ebf51fd7686
+      internalID: 174605108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 5479
+        width: 606
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682e0ca07f688204488dd37af9d42af2
+      internalID: 82562674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 5479
+        width: 606
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a3ca2ec53a84c4fa9f29431897021a
+      internalID: 1398560354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 4332
+        y: 5479
+        width: 627
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7957e2592bca4aa4ba016e04af9ce70f
+      internalID: 120123628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 4718
+        width: 627
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb2f8d6a1baacb41a913a926de72ff5
+      internalID: -263734531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 4718
+        width: 636
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a237b0ec7e27ff4cb7315a8a08f3547
+      internalID: 555878874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 4718
+        width: 645
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4bcbe98c678564d9284e2f9ec41dc7
+      internalID: -552235134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 4299
+        y: 4718
+        width: 660
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f10a203d058eb42a97b31fc244a3dc
+      internalID: 255060871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3954
+        width: 671
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ef1256aa1259644b98ac445c62a293
+      internalID: -1961340981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3954
+        width: 671
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9547e8530e3d6b94086fa6c9eae2409e
+      internalID: 1479202051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 3951
+        width: 683
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefa560b7217e68429bbda74dcf08b14
+      internalID: -236398354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 3954
+        width: 689
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26f9c4ac31bd0c449e8ea72a1b7daac
+      internalID: -329640803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 3190
+        width: 689
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1135ab0e92ade3440921dc47355b1679
+      internalID: -100469065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 3187
+        width: 704
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217976fe01bc46d4ca7acbea8a54508f
+      internalID: 1005451310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 3190
+        width: 713
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3354d16451d4d42bdb70e2f4222fe2
+      internalID: -967045059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 4219
+        y: 3190
+        width: 740
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4849f79073405964787df1945252714e
+      internalID: -1751591675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 2426
+        width: 752
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd2217fda24c4d4f8e6caee98a705b0
+      internalID: 288617917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 2426
+        width: 758
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b418dccb45d8f459dbbb15a219c96a
+      internalID: 2044779773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 2423
+        width: 776
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8e4e48eb688ff4caa5d777e90a68c5
+      internalID: 36579649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 4171
+        y: 2423
+        width: 788
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e0a55301ad01b44a0b164400b30e34
+      internalID: 1070999941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1662
+        width: 806
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df8f547c4f9097458cc8db4b23a313c
+      internalID: 617096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1662
+        width: 824
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427b0e5766d67be429f6c0548e6a404e
+      internalID: -851589808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 1662
+        width: 836
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8885c2fc5ab31c440b0f10e9e56e2307
+      internalID: 97919707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 1662
+        width: 847
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b8ff246080a7d42842fb04124b9d1c
+      internalID: 1941437144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 898
+        width: 865
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c71538d6df5f046b29331a7a451952
+      internalID: 6999724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 898
+        width: 874
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fae1c6b22cbb27449059fb55a9ffa44
+      internalID: 568908555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 898
+        width: 886
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa94cae73821d648b5b51d3e2f6cfb7
+      internalID: -884437750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 4049
+        y: 898
+        width: 910
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15097dd1088178488dc01224c959d01
+      internalID: 612928434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 134
+        width: 934
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e6b0e79722c874ab53935f87b0738b
+      internalID: 493616955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenArrowHeadSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 134
+        width: 952
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa17bcc589b4d84a9edeffbbc4d95bb
+      internalID: 287778745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GreenArrowHeadSpriteSheet_0: 174605108
+      GreenArrowHeadSpriteSheet_1: 82562674
+      GreenArrowHeadSpriteSheet_10: -236398354
+      GreenArrowHeadSpriteSheet_11: -329640803
+      GreenArrowHeadSpriteSheet_12: -100469065
+      GreenArrowHeadSpriteSheet_13: 1005451310
+      GreenArrowHeadSpriteSheet_14: -967045059
+      GreenArrowHeadSpriteSheet_15: -1751591675
+      GreenArrowHeadSpriteSheet_16: 288617917
+      GreenArrowHeadSpriteSheet_17: 2044779773
+      GreenArrowHeadSpriteSheet_18: 36579649
+      GreenArrowHeadSpriteSheet_19: 1070999941
+      GreenArrowHeadSpriteSheet_2: 1398560354
+      GreenArrowHeadSpriteSheet_20: 617096
+      GreenArrowHeadSpriteSheet_21: -851589808
+      GreenArrowHeadSpriteSheet_22: 97919707
+      GreenArrowHeadSpriteSheet_23: 1941437144
+      GreenArrowHeadSpriteSheet_24: 6999724
+      GreenArrowHeadSpriteSheet_25: 568908555
+      GreenArrowHeadSpriteSheet_26: -884437750
+      GreenArrowHeadSpriteSheet_27: 612928434
+      GreenArrowHeadSpriteSheet_28: 493616955
+      GreenArrowHeadSpriteSheet_29: 287778745
+      GreenArrowHeadSpriteSheet_3: 120123628
+      GreenArrowHeadSpriteSheet_4: -263734531
+      GreenArrowHeadSpriteSheet_5: 555878874
+      GreenArrowHeadSpriteSheet_6: -552235134
+      GreenArrowHeadSpriteSheet_7: 255060871
+      GreenArrowHeadSpriteSheet_8: -1961340981
+      GreenArrowHeadSpriteSheet_9: 1479202051
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
